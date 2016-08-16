@@ -1,3 +1,7 @@
+<?php
+include("session_lecturer.php");
+?>
+
 <!--
 Author: W3layouts
 Author URL: http://w3layouts.com
